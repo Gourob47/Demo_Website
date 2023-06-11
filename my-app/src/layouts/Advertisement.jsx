@@ -19,8 +19,7 @@ const Advertisement = () => {
             </p>
 
             <p className="pb-5">
-              Our contact email:
-              <a href="/">contact.deshcareer@gmail.com</a>
+              Our contact email: <a href="/">contact.deshcareer@gmail.com</a>{" "}
               and phone number: +8801880811047
             </p>
           </div>
